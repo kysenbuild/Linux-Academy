@@ -8,4 +8,4 @@ if [ -s $1 ]
 	echo "File does not exist"
 	exit
 fi
-
+added a line to the script file
